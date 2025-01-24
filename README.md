@@ -9,7 +9,7 @@
 
 > 23rd Jan | [A Brief Introduction to LLMs](https://www.youtube.com/watch?v=QIFrhP640nE)
 >
-> [Anthony Madia]() from Flare leads a hands-on session on EVM smart contracts, covering setup, tools like Hardhat, and deploying a simple contract.
+> [Gabor Angeli](https://www.linkedin.com/in/gabor-angeli-468ab6a/) from [Google Gemini](https://gemini.google.com) leads a hands-on session on EVM smart contracts, covering setup, tools like Hardhat, and deploying a simple contract.
 
 </details>
 
