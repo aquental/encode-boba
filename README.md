@@ -9,19 +9,24 @@
 
 > 23rd Jan | A Brief Introduction to LLMs
 >
-> Anthony Madia from Flare leads a hands-on session on EVM smart contracts, covering setup, tools like Hardhat, and deploying a simple contract.
+> [Anthony Madia]() from Flare leads a hands-on session on EVM smart contracts, covering setup, tools like Hardhat, and deploying a simple contract.
 
 </details>
 
 <details>
 <summary>Week 2</summary>
-28th Jan | Implementing HybridCompute in CodeCaster
 
-30th Jan | Developing PresiBot with HybridCompute
+> 28th Jan | Implementing HybridCompute in CodeCaster
+>
+> 30th Jan | Developing PresiBot with HybridCompute
 
 </details>
 
-week 3
-4th Feb | The New Age of Data Transformation
+<details>
+<summary>Week 3</summary>
 
-6th Feb | From Ideas to Apps: Building with OpenAI’s GPT Models
+> 4th Feb | The New Age of Data Transformation
+>
+> 6th Feb | From Ideas to Apps: Building with OpenAI’s GPT Models
+
+</details>
