@@ -18,7 +18,11 @@
 
 > 28th Jan | [Implementing HybridCompute in CodeCaster]()
 >
+> Discover how CodeCaster leverages Hybrid Compute to bridge smart contracts with off-chain data and services, enabling developers to build smarter, more dynamic applications.
+
 > 30th Jan | [Developing PresiBot with HybridCompute]()
+>
+> ​PresiBot is a political simulation game that engages users in real-world decision-making scenarios, with AI generating challenges based on current events—like managing inflation. Learn how Hybrid Compute enables PresiBot to access off-chain data and services, bringing these dynamic scenarios to life.
 
 </details>
 
@@ -26,7 +30,7 @@
 <summary>Week 3</summary>
 
 > 4th Feb | [The New Age of Data Transformation]()
->
+
 > 6th Feb | [From Ideas to Apps: Building with OpenAI’s GPT Models]()
 
 </details>
