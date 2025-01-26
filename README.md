@@ -1,5 +1,7 @@
 # [Gen AI Educate](https://www.encode.club/generative-ai-educate-series/) with [Boba](https://boba.network/) at [Encode.Club](https://www.encode.club)
 
+A four-week exclusive Educate series focused on generative AI where you will learn to build smarter, AI-driven apps using Boba’s Hybrid Compute model. Hear from the top leaders in generative AI and Web3 over six exciting sessions. 
+
 <details>
 <summary>Week 1</summary>
 
