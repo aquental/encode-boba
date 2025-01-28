@@ -18,9 +18,9 @@ A four-week exclusive Educate series focused on generative AI where you will lea
 <details>
 <summary>Week 2</summary>
 
-> 28th Jan | [Implementing HybridCompute in CodeCaster]()
+> 28th Jan | [Implementing HybridCompute in CodeCaster](#)
 >
-> Discover how CodeCaster leverages Hybrid Compute to bridge smart contracts with off-chain data and services, enabling developers to build smarter, more dynamic applications.
+> Discover how [CodeCaster](https://github.com/bobanetwork/aa-hc-CodeCaster) leverages [Hybrid Compute](https://docs.boba.network/hc/index) to bridge smart contracts with off-chain data and services, enabling developers to build smarter, more dynamic applications.
 
 > 30th Jan | [Developing PresiBot with HybridCompute]()
 >
